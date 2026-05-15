@@ -6,6 +6,8 @@ AI Engineer. Two things live in production right now.
 
 🔍 **[document-qa](https://github.com/harish1120/document-qa)** — Corrective RAG pipeline. LLM grades its own retrieval quality before answering. LangGraph, FAISS + BM25 hybrid search, AWS Lambda + ECS Fargate, Prometheus.
 
+🤝 **[RAGnarok-AI](https://github.com/2501Pr0ject/RAGnarok-AI)** — Open source contributor. Shipped `MedicalAbbreviationNormalizer`: context-aware disambiguation of 500+ medical abbreviations to reduce false positives in RAG evaluation (merged PR #91, +1,245 lines).
+
 ---
 
 **Stack:** Python · PyTorch · LangGraph · OpenAI Realtime API · FastAPI · Docker · AWS · MLflow · Redis · PostgreSQL
