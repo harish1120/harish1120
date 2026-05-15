@@ -1,43 +1,18 @@
-# Hi, I'm Harish 👋
+# Harish Sundaralingam
 
-**AI/ML Engineer** bridging the gap between research and production.
+AI Engineer. Two things live in production right now.
 
-I'm a published researcher and applied ML engineer specializing in production-grade GenAI and LLM-powered applications — from RAG pipelines and prompt engineering to scalable end-to-end systems. I care about building things that actually ship: reliable, maintainable, and well-documented.
+📞 **[Call +1 (782) 802-0868](tel:+17828020868)** — FirstCall, a 24/7 voice AI triage agent. Multi-agent architecture (Protocol Agent + Voice Agent + Summary Agent), OpenAI Realtime API, Redis/ElastiCache, AWS EC2 + ALB. No app. No account. Just call.
 
-📍 Ontario, Canada · 🎓 MSc in Electrical & Computer Engineering (Deep Learning & Computer Vision), Lakehead University
-
----
-
-### What I work with
-
-**Languages & ML:** Python, SQL, PyTorch, TensorFlow, Scikit-learn, Pandas, NumPy
-
-**GenAI & NLP:** LLMs, RAG, Prompt Engineering, Embeddings, LangChain, NLP/NLU
-
-**MLOps & Infra:** FastAPI, Docker, AWS, MLflow, Git, CI/CD
+🔍 **[document-qa](https://github.com/harish1120/document-qa)** — Corrective RAG pipeline. LLM grades its own retrieval quality before answering. LangGraph, FAISS + BM25 hybrid search, AWS Lambda + ECS Fargate, Prometheus.
 
 ---
 
-### Featured projects
+**Stack:** Python · PyTorch · LangGraph · OpenAI Realtime API · FastAPI · Docker · AWS · MLflow · Redis · PostgreSQL
 
-🔍 **End-to-End RAG System with Hybrid Search** — Retrieval-augmented generation pipeline with hybrid semantic/keyword search, deployed as a REST API via FastAPI on AWS with containerized infrastructure. `Python` `LangChain` `FastAPI` `Docker` `AWS`
+**Research:** MSc Deep Learning & Computer Vision, Lakehead University · 4 peer-reviewed papers (IEEE ISIE 2025, RTIP2R 2024) · Compute Canada GPU grant
 
-🎯 **Dilated Strip-wise Spatial Feature Pyramid** — Novel feature pyramid architecture for detecting small and overlapping objects, improving mAP by 22–28%. Published at IEEE ISIE 2025. `Python` `PyTorch`
-
-📊 **YouTube Comment Sentiment Analysis Pipeline** — End-to-end NLP pipeline for classifying comments at scale with automated experiment tracking and model versioning. `Python` `Scikit-learn` `MLflow` `SQL`
-
----
-
-### Publications
-
-- **Dilated Strip-wise Spatial Feature Pyramid** — IEEE ISIE, 2025
-- **SegAttnDetec: A Segmentation-Aware Attention-Based Detector** — RTIP2R, 2024
-- 4 peer-reviewed papers total on novel deep learning architectures
-
----
-
-### Let's connect
+📍 Ontario, Canada
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/harishs1120)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:harishs1120@gmail.com)
-[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0009-0008-8240-5875)
